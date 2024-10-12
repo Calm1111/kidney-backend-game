@@ -1,4 +1,4 @@
-##kidney-backend-game
+#kidney-backend-game
 just simple backend with
 GET
 PUSH
